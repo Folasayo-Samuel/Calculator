@@ -1,0 +1,15 @@
+/home/saint/Desktop/Calculator/bin/Debug/net6.0/Calculator
+/home/saint/Desktop/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/home/saint/Desktop/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/home/saint/Desktop/Calculator/bin/Debug/net6.0/Calculator.dll
+/home/saint/Desktop/Calculator/bin/Debug/net6.0/Calculator.pdb
+/home/saint/Desktop/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/saint/Desktop/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/saint/Desktop/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/saint/Desktop/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/Calculator/obj/Debug/net6.0/Calculator.dll
+/home/saint/Desktop/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/home/saint/Desktop/Calculator/obj/Debug/net6.0/Calculator.pdb
+/home/saint/Desktop/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/home/saint/Desktop/Calculator/obj/Debug/net6.0/ref/Calculator.dll
